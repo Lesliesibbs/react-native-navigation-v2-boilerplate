@@ -1,10 +1,10 @@
 {
   "name": "react-native-navigation-boilerplate",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "A simple cli to scaffold your react-native-navigation-v2 with redux",
   "main": "index.js",
   "bin": {
-    "react-native-boilerplate": "./lib"
+    "react-native-boilerplate": "./lib/index.js"
   },
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
